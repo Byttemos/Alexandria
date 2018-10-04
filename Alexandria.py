@@ -1,3 +1,4 @@
+# FUCK DEN HER SNOTKODE
 import PyPDF2
 
 pdfFileObj = open('~/hriskaer/Downloads/Multimodal literacy i klasserummet.pdf' , 'rb')
